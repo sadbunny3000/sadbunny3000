@@ -33,5 +33,5 @@ I build whatever comes to mind — mostly through hackathons and bounties on Sup
 Open to collaborating on Web3 or ML projects — feel free to open an issue or reach out.
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sadbunny3000&show_icons=true&theme=default" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=sadbunny3000&show_icons=true&theme=default />
 </p>
