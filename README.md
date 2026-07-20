@@ -1,8 +1,8 @@
 Hey there! 👋
 
-I'm Natangwe, a full-stack developer based in Namibia.
+I'm Natangwe Martin, a full-stack developer based in Namibia.
 
-I build sports prediction systems, AI agents, and Web3/Solana tools — then ship them.
+I build whatever comes to my mind like sports prediction model, AI agents, and Web3/Solana tools — then ship them.
 
 My main stack is Python/FastAPI, Next.js, PostgreSQL, Redis, and Docker. I've also been getting deep into Solana/Web3 development (Rust/Anchor).
 
