@@ -12,6 +12,15 @@ Developer building Web3, ML, and full-stack projects from Namibia 🇳🇦
 - **[CipherBid](https://github.com/sadbunny3000/sealed-bid-auction)** — Sealed-bid auction on Solana using FHE
 - **[Shielded Yield](https://github.com/sadbunny3000/shielded-yield)** — Privacy-first yield aggregator on Solana using MagicBlock Ephemeral Rollups
 
+- I've got a few pinned projects, but my favorite is Mr Predict — a sports prediction and alert platform with ML models for match outcomes, tennis, and more.
+
+Fun facts:
+Sports betting markets fascinate me — I build and analyze them
+I've hackathon'd on Solana more than once and lived to tell about it
+My favorite CLI trick is cat > file << 'EOF' — saved me from more paste bugs than I can count
+My side hustle is a poultry farm — yes, an actual chicken business
+I'm equally comfortable debugging a Docker container and debugging a chicken coop
+
 ### 🛠️ Tech I work with
 
 `Python` · `TypeScript` · `Next.js` · `FastAPI` · `Solana` · `Rust` · `PostgreSQL` · `Redis` · `XGBoost` · `Docker`
