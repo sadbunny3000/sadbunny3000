@@ -1,3 +1,4 @@
+Hey there! 👋
 I'm Natangwe, a full-stack developer based in Namibia.
 
 I build sports prediction systems, AI agents, and Web3/Solana tools — then ship them.
